@@ -1,6 +1,6 @@
 ﻿# PRIVACY POLICY APIK MAPIK
 
-_Updated on March the 14th 2023_
+_Updated on March the 31th 2023_
 
 This Privacy Policy is addressed to you, as a user of the MAPIK application (hereinafter the "Application"). It is written to describe and inform you of the processing that may be performed. 
 
@@ -12,7 +12,7 @@ This Policy allows Us to specify who controls and manages the personal data coll
 
 APIK is the data controller of personal data collected on our app and services in accordance with applicable data privacy laws and regulations including Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the "General Data Protection Regulation" and Law No. 78-17 of 6 January 1978 known as the "Loi informatique et libertés" as amended (together referred to as the "GDPR"). If you have any questions about the Personal Data Policy, please feel free to contact us: 
 
-* By email: [privacy@apik.com](mailto:privacy@apik.com)
+* By email: [privacy@api-k.com](mailto:privacy@api-k.com)
 
 * By post: 48 av du lac du Bourget – BP416 - 73370 LE BOURGET DU LAC 
 
@@ -49,7 +49,7 @@ Only the authorized and specified persons mentioned below will have access to yo
 
 * APIK's authorized personnel,  
 
-* APIK's subcontractors, a list of whom can be communicated to you on request at the following address: privacy@apik.com 
+* APIK's subcontractors, a list of whom can be communicated to you on request at the following address: privacy@api-k.com 
 
 * the host of the MAPIK Application. If you wish to learn more about their data protection policy, please click on the following link: https://privacy.microsoft.com/fr-fr/privacy 
 
@@ -63,7 +63,7 @@ Your data will not be communicated, exchanged, sold or rented to any other perso
 
 In accordance with the French Data Protection Act, as well as the RGPD, you have the right to obtain the communication and, if necessary, the rectification or the deletion of the data concerning you, by addressing you to  
 
-* e-mail address: privacy@apik.com 
+* e-mail address: privacy@api-k.com 
 
 * postal address: 48 av du lac du Bourget BP 416 73370 Le BOURGET DU LAC 
 
